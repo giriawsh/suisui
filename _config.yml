@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-keywords:
-author: John Doe
+title: Title
+subtitle: subtitle
+description: description
+keywords: keyword keyword2
+author: Giria
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
+url: http://127.0.0.1/giria
+root: /giria
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
